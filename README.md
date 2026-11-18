@@ -33,3 +33,6 @@ cd backend
 ./mvnw spring-boot:run
 A API estará disponível em http://localhost:8080.
 O Swagger pode ser acessado em: http://localhost:8080/swagger-ui/index.html.
+
+## 🎥 Vídeo de Demonstração
+https://drive.google.com/file/d/1SHR-7kF917GVOXHBRVNI1cbsZCA5v7LB/view?usp=drive_link
