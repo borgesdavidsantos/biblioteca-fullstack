@@ -5,6 +5,9 @@ Trabalho final da disciplina de Frameworks Web II. O projeto consiste em uma API
 ## 👥 Integrantes do Grupo
 * David Borges Santos
 
+## 🎥 Vídeo de Demonstração
+* https://drive.google.com/file/d/1SHR-7kF917GVOXHBRVNI1cbsZCA5v7LB/view?usp=drive_link
+
 ## 🛠 Tecnologias Utilizadas
 **Backend:**
 * Java 25 e Spring Boot 4
@@ -33,6 +36,3 @@ cd backend
 ./mvnw spring-boot:run
 A API estará disponível em http://localhost:8080.
 O Swagger pode ser acessado em: http://localhost:8080/swagger-ui/index.html.
-
-## 🎥 Vídeo de Demonstração
-https://drive.google.com/file/d/1SHR-7kF917GVOXHBRVNI1cbsZCA5v7LB/view?usp=drive_link
